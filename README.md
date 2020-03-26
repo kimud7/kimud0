@@ -1,3 +1,1 @@
-# kimud0
-# kimud0
-# kimud0
+#설정용
